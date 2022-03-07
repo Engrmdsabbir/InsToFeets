@@ -3,4 +3,4 @@ function insToFeet(ins){
     return feet;
 }
 let InssToFeet =insToFeet(prompt())
-console.log(InssToFeet);
+// console.log(InssToFeet);
